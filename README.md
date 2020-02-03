@@ -1,3 +1,3 @@
 # hello-world
 Code
-Hi. I m new to progrmming. Can you help me? 
+Hi. I m new to programming. Can you help me? 
